@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.989,=G:\Загрузки\888888.ttf</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.989,G:\Загрузки\888888.ttf=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.470,G:\Загрузки\888888.ttf=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.402,=G:\Загрузки\888888.ttf</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.986,=C:\Users\MDN\Desktop\0.jpg</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.150,C:\Users\MDN\Documents\RAD Studio\Projects\Project1.dproj=D:\PROJECTS2019\CUBE_WATCH\CUBE_WATCH.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.967,C:\Users\MDN\Documents\RAD Studio\Projects\Unit1.dfm=D:\PROJECTS2019\CUBE_WATCH\main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.996,C:\Users\MDN\Desktop\0.jpg=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.016,=G:\Загрузки\888888.fon</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.945,=D:\PROJECTS2020\C-TIME\Release\Win32\888888.ttf</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.239,=C:\Users\MDN\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.967,C:\Users\MDN\Documents\RAD Studio\Projects\Unit1.pas=D:\PROJECTS2019\CUBE_WATCH\main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.005,D:\PROJECTS2020\C-TIME\Release\Win32\888888.ttf=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.355,G:\Загрузки\888888.fon=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.395,=D:\PROJECTS2020\C-TIME\Release\Win32\888888.ttf</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.890,D:\PROJECTS2020\C-TIME\Release\Win32\888888.ttf=</Transaction>
+    <Transaction>2023.03.11 22:13:43.144,D:\PROJECTS2023\ComportView\COMVIEW.dproj=D:\PROJECTS2023\ComportView\CUBE_WATCH.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
